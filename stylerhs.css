@@ -4,6 +4,13 @@ body{
     background-image:url("backgroundimg.jpg");
 
 }
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.nav-item{
+    padding-left: 70px;
+}
 h1{
  font-size: 50px;
 }
@@ -22,7 +29,7 @@ h4{
 }
 p{
     font-family: 'Roboto Slab', serif;
-    color: burlywood;
+    color: rgb(48, 29, 5);
     text-decoration: burlywood;
 }
 .half-width{
@@ -44,7 +51,7 @@ p{
     padding: 10px 10px;
     border-radius: 5px;
 }
-.top-banner{
+.container{
     background-image: url("top-banner.png");
     background-repeat: no-repeat;
     background-image: url("backgroundimg.jpg");
@@ -54,7 +61,7 @@ section{
     height: 500px;
     padding-bottom: 100px;
 }
-#right-banner{
+.right-banner{
     background-image: url("dream-bg.png");
     background-repeat: no-repeat;
    background-position: right;
