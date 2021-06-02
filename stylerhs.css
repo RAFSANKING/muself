@@ -52,7 +52,7 @@ p{
     border-radius: 5px;
 }
 .container{
-    background-image: url("top-banner.png");
+    background-image: url("pic/top-banner.png");
     background-repeat: no-repeat;
     background-image: url("backgroundimg.jpg");
    
@@ -62,7 +62,7 @@ section{
     padding-bottom: 100px;
 }
 .right-banner{
-    background-image: url("dream-bg.png");
+    background-image: url("pic/dream-bg.png");
     background-repeat: no-repeat;
    background-position: right;
 }
@@ -76,7 +76,7 @@ section{
     height: 70%;
 }
 .about{
-    background-image: url("exp-bg.png");
+    background-image: url("pic/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
